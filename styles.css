@@ -17,12 +17,9 @@ body {
             top: 0;
             right: 0;
             background-color: rgba(0, 0, 0, 0.5); 
-            color: white;
+            color: grey;
             padding: 5px 10px; 
         }
-.chicken{background-color: light-pink;}
-.beef{background-color: maroon;}
-.sushi{background-color: light-yellow;}
         @media screen and (min-width: 992px) {
             .container {
                 display: flex; 
